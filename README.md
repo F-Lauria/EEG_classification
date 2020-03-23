@@ -8,17 +8,17 @@ In this repository you will see how to solve a Multiclass classificationt task i
 * [Dependencies](#dependencies)
 
 ## General info
-These data came from a University Deep Learning challenge, which was hosted in [Codalab](https://codalab.org/). As previously mentioned we will deal with different DL algorithms, namely:
+These data came from a University Deep Learning challenge, which was hosted in [Codalab](https://codalab.org/). My team developed different algorithms but here I will show you the ones that I personal created, namely: 
 
 * CNN 1D
 * CNN 1D + LSTM
 * CNN 2D
 
-Unfortunately I cannot upload here the data because they are too big, in the notebooks I will guide you to download and process them. 
+Moreover, a report can be found [here](https://github.com/F-Lauria/EEG_classification/blob/master/docs/report.pdf). In the report, you can find descritpions of the other models used it as well as a longer discussion about the CNN2D which tourned out to be the best among all the algorithms we tried.
 
 ## Code
 
-In this notebook you will find all the models previously mentioned.
+In [this notebook](https://nbviewer.jupyter.org/github/F-Lauria/EEG_classification/blob/master/code/EEG_classification.ipynb) you will find all the models previously mentioned.
 
 ## Technologies
 
