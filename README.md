@@ -14,11 +14,11 @@ These data came from a University Deep Learning challenge, which was hosted in [
 * CNN 1D + LSTM
 * CNN 2D
 
-Moreover, a report can be found [here](https://github.com/F-Lauria/EEG_classification/blob/master/docs/report.pdf). In the report, you can find descritpions of the other models used it as well as a longer discussion about the CNN2D which tourned out to be the best among all the algorithms we tried.
+Moreover, a report can be found [here](https://github.com/F-Lauria/EEG_classification/blob/master/docs/report.pdf). In the report you can find descritpions of all the models that the team developed, not only the ones shared here. 
 
 ## Code
 
-In [this notebook](https://nbviewer.jupyter.org/github/F-Lauria/EEG_classification/blob/master/code/EEG_classification.ipynb) you will find all the models previously mentioned.
+In [this notebook](https://nbviewer.jupyter.org/github/F-Lauria/EEG_classification/blob/master/code/EEG_classification.ipynb) you will find all the models previously mentioned (CNN1D, CNN1D + LSTMm CNN2D).
 
 ## Technologies
 
