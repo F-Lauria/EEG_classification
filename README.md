@@ -18,7 +18,7 @@ Moreover, a report can be found [here](https://github.com/F-Lauria/EEG_classific
 
 ## Code
 
-In [this notebook](https://nbviewer.jupyter.org/github/F-Lauria/EEG_classification/blob/master/code/EEG_classification.ipynb) you will find all the models previously mentioned (CNN1D, CNN1D + LSTMm CNN2D).
+In [this notebook](https://github.com/F-Lauria/EEG_classification/blob/master/code/EEG_classification.ipynb) you will find all the models previously mentioned (CNN1D, CNN1D + LSTM and CNN2D).
 
 ## Technologies
 
